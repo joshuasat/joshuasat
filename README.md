@@ -53,10 +53,3 @@ DevOps
 </div>
 
 </td></tr></table>  
-
-
-<br/>  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=joshuasl12&&style=flat-square)  
